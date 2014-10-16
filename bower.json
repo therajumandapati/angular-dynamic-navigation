@@ -1,8 +1,8 @@
 {
-  "name": "dynamic-navigation",
-  "main": "dynamic-navigation.js",
+  "name": "angular-dynamic-navigation",
+  "main": "angular-dynamic-navigation.js",
   "version": "0.0.1",
-  "homepage": "https://github.com/mvpspl619/nav-item-directive",
+  "homepage": "https://github.com/mvpspl619/angular-dynamic-navigation",
   "description": "An AngularJS directive for managing CSS classes on nav items based on active route",
   "keywords": [
     "navigation",

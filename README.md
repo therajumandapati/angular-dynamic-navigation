@@ -1,4 +1,4 @@
-##Dynamic Navigation(Most unsuited name)
+##Angular Dynamic Navigation
 
 An AngularJS directive that solves one and only one problem. 
 
@@ -7,12 +7,12 @@ An AngularJS directive that solves one and only one problem.
 **Me again:** This directive solves that problem by exposing a simple api as below.<br>
 **Me**. You're welcome! ;)<br>
 
-![NavItemDirective](https://raw.githubusercontent.com/mvpspl619/nav-item-directive/master/demo.png)
+![NavItemDirective](https://raw.githubusercontent.com/mvpspl619/angular-dynamic-navigation/master/demo.png)
 
 ###How does it work ?
 The directive watches **$location.path()** and when the current path matches the value given in the attribute **nav-item-route**, a class name provided under attribute **nav-item-class** is added to the element that the directive is on.
 
 ###How do I use it ?
- 1. Get the bower package "Dynamic-Navigation"
+ 1. Get the bower package "Angular-Dynamic-Navigation"
  2. Add it as a dependency to your AngularJS module
  3. On your navigation menu item, add the directive **nav-item** as an attribute and two other attributes **nav-item-class** and **nav-item-route**, assign them proper values.
