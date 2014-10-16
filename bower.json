@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-navigation",
+  "main": "dynamic-navigation.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/mvpspl619/nav-item-directive",
+  "description": "An AngularJS directive for managing CSS classes on nav items based on active route",
+  "keywords": [
+    "navigation",
+    "dynamic",
+    "nav",
+    "angularjs"
+  ],
+  "authors": [
+    "VenkatapathiRaju Mandapati"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
